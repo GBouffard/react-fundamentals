@@ -14,41 +14,41 @@ Examples:
 ----
 The right outcome can be seen when we update with the right example number in index.html
 
-Example 1: Hello World - First Component
+- Example 1: Hello World - First Component
 ![](public/1.png)
 
-Example 2: The Render Method
+- Example 2: The Render Method
 ![](public/2.png)
 
-Example 3: Introduction to Properties
+- Example 3: Introduction to Properties
 ![](public/3.png)
 
-Example 4: State Basics
+- Example 4: State Basics
 ![](public/4.png)
 
-Example 5: (Skipped)
+- Example 5: (Skipped)
 
-Example 6: Using Refs to Access Components
-![](public/6.png)
+- Example 6: Using Refs to Access Components
+<img src="https://github.com/GBouffard/react-fundamentals/public/6.png" width="460">
 
-Example 7: Accessing Child Properties
+- Example 7: Accessing Child Properties
 ![](public/7.png)
 
-Example 8: Component Lifecycle - Mounting Basics
+- Example 8: Component Lifecycle - Mounting Basics
 ![](public/8a.png)
 ![](public/8b.png)
 
-Example 9: Component Lifecycle - Mounting Usage
+- Example 9: Component Lifecycle - Mounting Usage
 ![](public/9.png)
 
-Example 10: Component Lifecycle - Updating
+- Example 10: Component Lifecycle - Updating
 ![](public/10.png)
 
-Example 11: Mixins
+- Example 11: Mixins
 ![](public/11.png)
 
-Example 12: Composable Components
+- Example 12: Composable Components
 ![](public/12.png)
 
-Example 13: Dynamically Generated Components
+- Example 13: Dynamically Generated Components
 ![](public/13.png)
