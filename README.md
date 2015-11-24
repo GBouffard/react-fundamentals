@@ -15,7 +15,7 @@ Examples:
 The right outcome can be seen when we update with the right example number in index.html
 
 - Example 1: Hello World - First Component
-![](public/1.png)
+<img src="https://raw.githubusercontent.com/GBouffard/react-fundamentals/master/public/1.png" width="460">
 
 - Example 2: The Render Method
 ![](public/2.png)
@@ -29,7 +29,7 @@ The right outcome can be seen when we update with the right example number in in
 - Example 5: (Skipped)
 
 - Example 6: Using Refs to Access Components
-<img src="https://github.com/GBouffard/react-fundamentals/public/6.png" width="460">
+<img src="/GBouffard/react-fundamentals/blob/master/public/6.png" width="460">
 
 - Example 7: Accessing Child Properties
 ![](public/7.png)
