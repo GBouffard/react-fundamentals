@@ -44,11 +44,11 @@ Example 9: Component Lifecycle - Mounting Usage
 Example 10: Component Lifecycle - Updating
 ![](public/10.png)
 
-Example 11: Composable Components
+Example 11: Mixins
 ![](public/11.png)
 
-Example 12: Dynamically Generated Components
+Example 12: Composable Components
 ![](public/12.png)
 
-Example 13: Build a JSX Live Compiler
+Example 13: Dynamically Generated Components
 ![](public/13.png)
