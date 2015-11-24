@@ -15,40 +15,40 @@ Examples:
 The right outcome can be seen when we update with the right example number in index.html
 
 - Example 1: Hello World - First Component
-<img src="https://raw.githubusercontent.com/GBouffard/react-fundamentals/master/public/1.png" width="460">
+<br><img src="https://raw.githubusercontent.com/GBouffard/react-fundamentals/master/public/1.png" width=30%><br><br>
 
 - Example 2: The Render Method
-![](public/2.png)
+<br><img src="https://raw.githubusercontent.com/GBouffard/react-fundamentals/master/public/2.png" width=30%><br><br>
 
 - Example 3: Introduction to Properties
-![](public/3.png)
+<br><img src="https://raw.githubusercontent.com/GBouffard/react-fundamentals/master/public/3.png" width=30%><br><br>
 
 - Example 4: State Basics
-![](public/4.png)
+<br><img src="https://raw.githubusercontent.com/GBouffard/react-fundamentals/master/public/4.png" width=30%><br><br>
 
 - Example 5: (Skipped)
 
 - Example 6: Using Refs to Access Components
-<img src="/GBouffard/react-fundamentals/blob/master/public/6.png" width="460">
+<br><img src="https://raw.githubusercontent.com/GBouffard/react-fundamentals/master/public/6.png" width=30%><br><br>
 
 - Example 7: Accessing Child Properties
-![](public/7.png)
+<br><img src="https://raw.githubusercontent.com/GBouffard/react-fundamentals/master/public/7.png" width=30%><br><br>
 
 - Example 8: Component Lifecycle - Mounting Basics
-![](public/8a.png)
-![](public/8b.png)
+<br><img src="https://raw.githubusercontent.com/GBouffard/react-fundamentals/master/public/8a.png" width=30%><br>
+<br><img src="https://raw.githubusercontent.com/GBouffard/react-fundamentals/master/public/8b.png" width=30%><br><br>
 
 - Example 9: Component Lifecycle - Mounting Usage
-![](public/9.png)
+<br><img src="https://raw.githubusercontent.com/GBouffard/react-fundamentals/master/public/9.png" width=30%><br><br>
 
 - Example 10: Component Lifecycle - Updating
-![](public/10.png)
+<br><img src="https://raw.githubusercontent.com/GBouffard/react-fundamentals/master/public/10.png" width=30%><br><br>
 
 - Example 11: Mixins
-![](public/11.png)
+<br><img src="https://raw.githubusercontent.com/GBouffard/react-fundamentals/master/public/11.png" width=30%><br><br>
 
 - Example 12: Composable Components
-![](public/12.png)
+<br><img src="https://raw.githubusercontent.com/GBouffard/react-fundamentals/master/public/12.png" width=30%><br><br>
 
 - Example 13: Dynamically Generated Components
-![](public/13.png)
+<br><img src="https://raw.githubusercontent.com/GBouffard/react-fundamentals/master/public/13.png" width=30%><br><br>
